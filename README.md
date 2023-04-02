@@ -29,13 +29,12 @@ Feel free to explore the page and let me know what you think. I hope you enjoy t
 
 <h2>🔭 Learn More</h2>
 
-<p>To learn TailwindCSS, check out the <a href="https://tailwindcss.com/</a>.</p>
-</br>
+<p>To learn TailwindCSS, check out the <a href="https://tailwindcss.com/">TailwindCSS documentation</a>.</p>
 
 <h2>🛠 Execute it</h2>
 
-<p>Fork this repository and on start it by running the file index.html </p>
-</br>
+<p>Fork this repository and start it by running the index.html file </p>
+<p>Check out my other clones (<a href="https://github.com/weslleypmfortunato/clone-login-facebook">Facebook Login Page</a> and <a href="https://github.com/weslleypmfortunato/clone-spotify-home-page">Spotify Home Page</a>) also created to put learning TailwindCSS into practice. </p>
 
 <h2> 👨 About the developer</h2>
 
